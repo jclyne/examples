@@ -115,6 +115,7 @@
         <module>stringPermutations</module>
         <module>stringCombinations</module>
         <module>fizzbang</module>
+        <module>fibonacci</module>
     </modules>
 
 </project>
