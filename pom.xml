@@ -114,6 +114,7 @@
         <module>recursiveBinarySearch</module>
         <module>stringPermutations</module>
         <module>stringCombinations</module>
+        <module>fizzbang</module>
     </modules>
 
 </project>
